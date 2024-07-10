@@ -1,0 +1,152 @@
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.Properties.Resources.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.GenerateResource.Cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fm8So.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fmThongTin.resources
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.exe
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.pdb
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.exe
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.pdb
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fm8So.resources
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fmThongTin.resources
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.Properties.Resources.resources
+D:\Lap trinh C#\Projects\WindowFrom\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.pdb
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.pdb
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fm8So.resources
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fmThongTin.resources
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.Properties.Resources.resources
+C:\Users\ACER\Downloads\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.pdb
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.pdb
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fm8So.resources
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fmThongTin.resources
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.Properties.Resources.resources
+C:\Users\ACER\Downloads\.net\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\8So_WindowsForms.pdb
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fm8So.resources
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.fmThongTin.resources
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\_8So_WindowsForms.Properties.Resources.resources
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.csproj.CopyComplete
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.exe
+C:\Users\ACER\Downloads\Hk6 before\8So_WindowsForms\8So_WindowsForms\obj\Debug\8So_WindowsForms.pdb
